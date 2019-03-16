@@ -1,0 +1,36 @@
+.navbar-brand-direction {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+}
+.navbar-link-react {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+.navbar-link-react:hover {
+    color: white;
+}
+.navbar-brand-margin {
+    margin-left: 15px;
+}
+.navbar-padding {
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.burger-height {
+    height: auto;
+}
+.name {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.navbar-menu-left {
+    margin-left: 10px;
+    font-size: 20px;
+}

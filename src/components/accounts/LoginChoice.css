@@ -1,0 +1,22 @@
+.card-img {
+    width: 400px;
+    height: 400px;
+}
+.card-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.little-padding {
+    margin-bottom: 5px;
+}
+.title-card {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 25px;
+    font-style: italic;
+}

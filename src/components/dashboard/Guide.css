@@ -1,0 +1,11 @@
+.guide-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.guide-element-div {
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

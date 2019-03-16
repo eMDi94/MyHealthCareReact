@@ -1,0 +1,64 @@
+.hero-background {
+    background-image: url('../../assets/doctor.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 600px;
+}
+.container-layout {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+.logo-style {
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+}
+.hero-title {
+    font-family: 'Times New Roman', Times, serif;
+    color: #E72D41;
+}
+.text-item-even {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+    font-weight: bolder;
+}
+.text-item-odd {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    background-color: turquoise;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
+    font-weight: bolder;
+}
+.item-image {
+    height: 150px;
+    width: 150px;
+    margin: 15px;
+}
+.title-div-even {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 15px;
+}
+.title-div-odd {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin: 15px;
+}
+.item-title {
+    height: auto;
+    width: 50%;
+    margin: 25px;
+}
+.grow {
+    flex-grow: 1;
+}
